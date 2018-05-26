@@ -10,6 +10,9 @@ default
 simple
   A really simple project
 
+middleware
+  Like ``simple``, but with three middlewares that do nothing
+
 Usage
 -----
 
