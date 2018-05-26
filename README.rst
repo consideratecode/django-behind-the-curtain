@@ -11,7 +11,7 @@ simple
   A really simple project
 
 middleware
-  Like ``simple``, but with three middlewares that do nothing
+  Like ``simple``, but with three middleware classess that do nothing
 
 Usage
 -----
