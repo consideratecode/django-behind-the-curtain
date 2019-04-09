@@ -1,6 +1,6 @@
 Behind the curtain
 ==================
-Code examples for the talk `"Behind the curtain - How Django handles a request" <https://2018.djangocontent.eu/hd/talk/37A8EC/>`_ at DjangoCon Europe 2018.
+Code examples for the workshop "Behind the curtain - How Django handles a request", presented at `DjangoCon Europe 2019 <https://members.2019.djangocon.eu/conference/talk/UH9AKN/>`_.
 
 Each sub-directory contains a small Django project.
 
@@ -11,12 +11,12 @@ simple
   A really simple project
 
 middleware
-  Like ``simple``, but with three middleware classess that do nothing
+  Like ``simple``, but with three middleware classes that do some logging.
 
 Usage
 -----
 
-The only external dependency is Django 2.0.x, meaning you have to use Python 3.4 or higher.
+The only external dependency is Django 2.2.x, meaning you have to use Python 3.5 or higher.
 
 There is a ``requirements.txt`` file::
 
@@ -27,4 +27,4 @@ You can the change into one of the project directories and run the ``server.py``
     (venv) $ cd simple
     (venv) $ python server.py
 
-Note that the server exits after handling a single request.
+Note that the server intentionally exits after handling a single request.
