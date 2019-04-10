@@ -1,6 +1,6 @@
 Behind the curtain
 ==================
-Code examples for the workshop "Behind the curtain - How Django handles a request", presented at `DjangoCon Europe 2019 <https://members.2019.djangocon.eu/conference/talk/UH9AKN/>`_.
+Code examples for the workshop "Behind the curtain - How Django handles a request", presented at `DjangoCon Europe 2019 <https://members.2019.djangocon.eu/conference/talk/UH9AKN/>`_ (`Slides <https://members.2019.djangocon.eu/media/behind_the_curtain_djangocon_europe_2019.pdf>`_).
 
 Each sub-directory contains a small Django project.
 
